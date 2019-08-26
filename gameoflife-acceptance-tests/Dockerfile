@@ -20,4 +20,4 @@ ENV MAVEN_HOME /opt/maven
 EXPOSE 9090
 
 CMD ["mvn"]
-#comment
+
